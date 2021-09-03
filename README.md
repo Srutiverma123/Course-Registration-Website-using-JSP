@@ -1,5 +1,6 @@
 # Course-Registration-Website-using-JSP
-Students can choose their courses, faculty and see their timetable
+
+Students can choose their courses, faculty and see their timetable.
 
 To run the project, run the index.html file.
 
