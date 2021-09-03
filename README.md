@@ -5,8 +5,6 @@ To run the project, run the index.html file.
 
 2 tables are required, reg has memebers table where all the login credentials are stored and course_reg has all the details of the courses and faculty choosen.
 
-Demo of the project: https://drive.google.com/file/d/129bmjkir5N6I4yDKAdY0mCnbzNn3cqRH/view?usp=drivesdk
-
 A word doc is also there which consists of the codes and screenshot of the project whith a little explaination.
 
 
