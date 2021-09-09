@@ -1,4 +1,4 @@
-# Course-Registration-Website-using-JSP
+# Course-Registration-Website-using-JSP(Netbeans and SQL Work bench)
 
 Students can choose their courses, faculty and see their timetable.
 
@@ -6,7 +6,7 @@ To run the project, run the index.html file.
 
 2 tables are required, reg has memebers table where all the login credentials are stored and course_reg has all the details of the courses and faculty choosen.
 
-A word doc is also there which consists of the codes and screenshot of the project whith a little explaination.
+A word doc is also there which consists of the codes and screenshot of the project whith explaination.
 
 
 CREATE TABLE `sub` (
