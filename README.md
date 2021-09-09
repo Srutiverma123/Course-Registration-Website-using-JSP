@@ -6,8 +6,6 @@ To run the project, run the index.html file.
 
 2 tables are required, reg has memebers table where all the login credentials are stored and course_reg has all the details of the courses and faculty choosen.
 
-A word doc is also there which consists of the codes and screenshot of the project whith explaination.
-
 
 CREATE TABLE `sub` (
   `id` int(10) unsigned NOT NULL auto_increment,
@@ -35,3 +33,16 @@ CREATE TABLE `members` (
   `regdate` date NOT NULL,
   PRIMARY KEY  (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+![reg](https://user-images.githubusercontent.com/61344492/132629273-9b7d61a2-880e-4ad7-8c93-f74b41347a96.png)
+
+![registration](https://user-images.githubusercontent.com/61344492/132629309-3859467c-54a1-4c3a-a92a-14c29c92438e.png)
+
+![tt](https://user-images.githubusercontent.com/61344492/132629338-7fd6796b-5412-48e9-b10b-873dc37678c5.png)
+
+![login](https://user-images.githubusercontent.com/61344492/132629352-4435f171-a375-48a6-9379-dd4308cb98c6.png)
+
+
+A word doc is also there which consists of the codes and screenshot of the project whith explaination.
+
