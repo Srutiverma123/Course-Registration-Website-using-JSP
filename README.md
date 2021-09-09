@@ -47,5 +47,5 @@ CREATE TABLE `members` (
 ![tt](https://user-images.githubusercontent.com/61344492/132629338-7fd6796b-5412-48e9-b10b-873dc37678c5.png)
 
 
-A word doc is also there which consists of the codes and screenshot of the project whith explaination.
+A pdf is also there which consists of the codes and screenshot of the project whith explaination.
 
